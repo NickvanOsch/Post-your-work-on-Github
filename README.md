@@ -1,17 +1,24 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+21-07-2022
 
 ### Project Title
-Replace the Project Title
+Post your work on Github
 
 ### Description
-Describe what your project is about and what it does
+This project posts a python project on Github which calculates multiple descriptive statistics about bike share usage in Chicago, New York City and Washingtion.
+The goal of this project is to simulate a realistic workflow to post a project on Git.
 
 ### Files used
-Include the files used
+The following files are used during this project:
+
+- Git Commands Documentation
+    : Contains the necessary commands which were used during this project.
+
+- Bikeshare_solution.py
+    : Python file that contains the python project code.
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
