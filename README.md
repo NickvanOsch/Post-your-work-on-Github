@@ -10,6 +10,8 @@ Post your work on Github
 This project posts a python project on Github which calculates multiple descriptive statistics about bike share usage in Chicago, New York City and Washingtion.
 The goal of this project is to simulate a realistic workflow to post a project on Git.
 
+Author: Nick van Osch
+
 ### Files used
 The following files are used during this project:
 
