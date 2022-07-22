@@ -21,7 +21,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     cities = ["chicago", "new york city", "washington"]
     try:
-        city = input ("For which chity would you like to see data: Chicago, New York City or Washington?").lower()
+        city = input ("For which city would you like to see data: Chicago, New York City or Washington?").lower()
         while (city not in cities):
             print("You entered:",city,". Please enter one of the available cities.")
             city = input("Please choose one of the following: Chicago, New York City or Washington?").lower()
